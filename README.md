@@ -7,7 +7,7 @@
 This is ahdskfjhlapsidufhaerfhia8freeeeeeai8alhsdkkkkkkkkkkkkkkkkkkkkkkkkkkf
 
 
-## MY PROJECTS 
+## 🎡MY PROJECTS 
 
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
 The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):<br>
@@ -26,13 +26,16 @@ The following listed project name in a dictionary format like(Where is the proje
 ☑️ [TCGA BRAC Subtype Classification ML Project](https://github.com/zunqiu-wang/TCGA-BRAC-ML-proj)<br>
 
 
-# MOST USED LANGUAGES
+# ❄MOST USED LANGUAGES
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunqiu-wang)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# MY GITHUB STATS
+# ⭐MY GITHUB STATS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zunqiu-wang&show_icons=true&count_private=true) 
+
+
+# 💬HOW TO REACH ME:
 
 
 # STAY CONNECT WITH ME
