@@ -17,6 +17,7 @@
 ![caret](https://img.shields.io/badge/caret-%2307405e.svg?style=for-the-badge&logo=caret&logoColor=blue)
 ![dplyr](https://img.shields.io/badge/dplyr-%23F7931E.svg?&style=for-the-badge&logo=r&logoColor=purple")
 ![tidyr](https://img.shields.io/badge/tidyr-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=blue")
+![tidymodel](https://img.shields.io/badge/tidymodel-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=green")
 
 
 ## 🎡My Projects:
