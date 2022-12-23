@@ -4,7 +4,7 @@
 
 
 ## About Me:
-**This is Zunqiu Wang. I’m interested in quantitatively drawing insights from big datasets using appropriate programming toolkits. And I’m currently learning Bioinformatics and Data Science**
+**This is Zunqiu Wang. I aspire to combine domain knowledge with a data-driven mindset to apply various methodologies and technologies to help make sense of multi-modal datasets to positively impact translational studies by improving disease diagnosis and treatments.**
 
 ## 🎗My Skills:
 **Technical Skills:**
