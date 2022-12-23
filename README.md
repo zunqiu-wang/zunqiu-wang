@@ -7,10 +7,10 @@
 **This is Zunqiu Wang. I’m interested in quantitatively drawing insights from big datasets using appropriate programming toolkits. And I’m currently learning Bioinformatics and Data Science**
 
 ## 🎗My Skills:
-**Technical Skills:**
+**Technical Skills:**<br>
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=green") ![Bash](https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-RShiny&logoColor=yellowgreen") ![Rshiny](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
 
-**ML:**
+**ML:**<br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=lightgrey) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=red) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![matplotlib]("https://img.shields.io/badge/matplotlib%20-%2317527b.svg?&style=for-the-badge&logo=matplotlib&logoColor=red")
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
