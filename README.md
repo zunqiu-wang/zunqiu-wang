@@ -10,7 +10,7 @@
 ## 🎡MY PROJECTS 
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
 The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):<br>
-☑️ Udacity: [Udacity_R_Github_Proj](https://github.com/zunqiu-wang/Udacity-R-Github-Proj) <br>
+☑️ **Udacity:** [Udacity_R_Github_Proj](https://github.com/zunqiu-wang/Udacity-R-Github-Proj) <br>
 ☑️ Udacity: [Udacity_R](https://github.com/zunqiu-wang/Udacity_R)<br>
 ☑️ Udacity: [Udacity_SQL](https://github.com/zunqiu-wang/Udacity_SQL)<br>
 ☑️ NYU: [NYU_Problem_solving](https://github.com/zunqiu-wang/NYU_Problem_solving)<br>
