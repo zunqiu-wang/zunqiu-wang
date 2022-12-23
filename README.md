@@ -4,7 +4,7 @@
 
 
 ## ABOUT ME
-**This is ahdskfjhlapsidufhaerfhia8freeeeeeai8alhsdkkkkkkkkkkkkkkkkkkkkkkkkkkf**
+**This is Zunqiu Wang. I’m interested in quantitatively drawing insights from big datasets using appropriate programming toolkits. And I’m currently learning Bioinformatics and Data Science**
 
 
 ## 🎡MY PROJECTS 
