@@ -46,7 +46,7 @@ The following listed project name in a dictionary format like(Where is the proje
 
 
 ## 💬HOW TO REACH ME: 
-✔️**E-Mail:** zendo0629@gmail.com
+✔️**E-Mail:** zendo0629@gmail.com <br>
 ✔️**LinkedIn:** [Zunqiu Wang
 ](https://www.linkedin.com/in/zqw1103/)
 
