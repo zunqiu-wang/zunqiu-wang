@@ -19,7 +19,7 @@
 ![tidyr](https://img.shields.io/badge/tidyr-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=blue")
 
 
-## 🎡My Projects
+## 🎡My Projects:
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
 The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):<br>
 ☑️ **Udacity:** [Udacity_R_Github_Proj](https://github.com/zunqiu-wang/Udacity-R-Github-Proj) <br>
@@ -37,21 +37,21 @@ The following listed project name in a dictionary format like(Where is the proje
 ☑️ [TCGA BRAC Subtype Classification ML Project](https://github.com/zunqiu-wang/TCGA-BRAC-ML-proj)<br>
 
 
-## ❄MOST USED LANGUAGES
+## ❄Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunqiu-wang)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## ⭐MY GITHUB STATS
+## ⭐My GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zunqiu-wang&show_icons=true&count_private=true) 
 
 
-## 💬HOW TO REACH ME: 
+## 💬How To Reach Me: 
 ✔️**E-Mail:** zendo0629@gmail.com <br>
 ✔️**LinkedIn:** [Zunqiu Wang
 ](https://www.linkedin.com/in/zqw1103/)
 
 
-## STAY CONNECT WITH ME
+## Stay Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zunqiu-wang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zqw1103/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](#)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
