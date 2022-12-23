@@ -1,7 +1,7 @@
 # Hi There 
 ![Hi There ](https://github.com/zunqiu-wang/zunqiu-wang/blob/main/welcome1.png?raw=true)
 
-
+# ABOUT ME
 This is ahdskfjhlapsidufhaerfhia8freeeeeeai8alhsdkkkkkkkkkkkkkkkkkkkkkkkkkkf
 
 
@@ -15,4 +15,23 @@ This is ahdskfjhlapsidufhaerfhia8freeeeeeai8alhsdkkkkkkkkkkkkkkkkkkkkkkkkkkf
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zunqiu-wang)  
 
 ![GitHub metrics](https://metrics.lecoq.io/zunqiu-wang)  
+
+
+# MY PROJECTS 
+
+Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
+The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):
+- Udacity: [Udacity_R_Github_Proj](https://github.com/zunqiu-wang/Udacity-R-Github-Proj)
+- Udacity: [Udacity_R](https://github.com/zunqiu-wang/Udacity_R)
+- Udacity: [Udacity_SQL](https://github.com/zunqiu-wang/Udacity_SQL)
+- NYU: [NYU_Problem_solving](https://github.com/zunqiu-wang/NYU_Problem_solving)
+- NYU: [NYU_NGS](https://github.com/zunqiu-wang/NYU_NGS)
+- NYU: [NYU_Transcriptomics](https://github.com/zunqiu-wang/NYU_Transcriptomics)
+- [scrna_practice](https://github.com/zunqiu-wang/scrna_project)
+- NEU: [DA5020_Collect/Store/Retrieve_Data](https://github.com/zunqiu-wang/DA5020)
+- NEU: [INSH5301_Computational_Statistics](https://github.com/zunqiu-wang/INSH5301)
+- NEU: [Bioinfo methods 1](https://github.com/zunqiu-wang/Bioinfo-methods-1)
+- NEU: [Stats for Bioinfo](https://github.com/zunqiu-wang/Stats-for-Bioinf)
+- [Chronic Kidney Disease Prediction ML Project](https://github.com/zunqiu-wang/Chronic-Kidney-Disease-Prediction-ML-project)
+- [TCGA BRAC Subtype Classification ML Project](https://github.com/zunqiu-wang/TCGA-BRAC-ML-proj)
 
