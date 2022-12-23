@@ -4,11 +4,10 @@
 
 
 ## ABOUT ME
-**This is ahdskfjhlapsidufhaerfhia8freeeeeeai8alhsdkkkkkkkkkkkkkkkkkkkkkkkkkkf
+**This is ahdskfjhlapsidufhaerfhia8freeeeeeai8alhsdkkkkkkkkkkkkkkkkkkkkkkkkkkf**
 
 
 ## 🎡MY PROJECTS 
-
 Here will contain multiple projects I have done throughput learning processes and projects will be in seperate repositories.
 The following listed project name in a dictionary format like(Where is the project from: name of project inside repository):<br>
 ☑️ Udacity: [Udacity_R_Github_Proj](https://github.com/zunqiu-wang/Udacity-R-Github-Proj) <br>
@@ -27,7 +26,6 @@ The following listed project name in a dictionary format like(Where is the proje
 
 
 ## ❄MOST USED LANGUAGES
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunqiu-wang)](https://github.com/anuraghazra/github-readme-stats)
 
 
