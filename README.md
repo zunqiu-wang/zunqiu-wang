@@ -34,7 +34,7 @@ The following listed project name in a dictionary format like(Where is the proje
 
 
 ## 💬HOW TO REACH ME: 
-✔️E-Mail: **zendo0629@gmail.com**
+✔️**E-Mail:** zendo0629@gmail.com
 
 
 ## STAY CONNECT WITH ME
