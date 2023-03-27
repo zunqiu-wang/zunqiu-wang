@@ -35,6 +35,7 @@ The following listed project name in a dictionary format like(Where is the proje
 ☑️ **NEU:** [Stats for Bioinfo](https://github.com/zunqiu-wang/Stats-for-Bioinf)<br>
 ☑️ [Chronic Kidney Disease Prediction ML Project](https://github.com/zunqiu-wang/Chronic-Kidney-Disease-Prediction-ML-project)<br>
 ☑️ [TCGA BRAC Subtype Classification ML Project](https://github.com/zunqiu-wang/TCGA-BRAC-ML-proj)<br>
+☑️ [Markel Cell Carcinoma scRNA analysis](https://github.com/zunqiu-wang/MCC_scRNA_analysis) <br>
 
 
 ## ❄Most Used Languages:
